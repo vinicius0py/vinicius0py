@@ -21,6 +21,12 @@ Sou Analista de Dados e graduando em Engenharia de Software, com um grande inter
 
 [![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=vinicius0py&how_icons-true&heme-dark)](https://github.com/anuragha/github-readme-stats)
 
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username-vinicius0py&repo=Bot-de-Processamento-Automatico-de-Mensagens-no-Telegram-na-AWS&theme=dark)](https://github.com/anurahazra/github-readme-stats)
+
+### Linguagens utilizadas
+
 
 
 
