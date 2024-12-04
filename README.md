@@ -30,7 +30,8 @@ Sou Analista de Dados e graduando em Engenharia de Software, com um grande inter
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius0py&çayout=compact)](https://github.com/anurahazra/github-readme-stats)
 
 
-
+### Contato
+[<img src='https://img.shields.io/badge/Linkedin-007785?style-for-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/vinicius-oliveira-p1/)
 
 
 
