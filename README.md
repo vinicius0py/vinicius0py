@@ -27,7 +27,7 @@ Sou Analista de Dados e graduando em Engenharia de Software, com um grande inter
 
 ### Linguagens utilizadas
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius0py&çayout=compact)](https://github.com/anurahazra/github-readme-stats)
 
 
 
