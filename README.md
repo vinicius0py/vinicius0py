@@ -17,47 +17,20 @@ Sou Analista de Dados e graduando em Engenharia de Software, com um grande inter
 - Data Lake
 - MS Excel, MS Office, Google Sheets
 
-### Detalhes
+### 😄 Detalhes
 
 [![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=vinicius0py&how_icons-true&heme-dark)](https://github.com/anuragha/github-readme-stats)
 
-### Projetos
+### 🔭 Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinicius0py&repo=Analise-de-Dados-COVID-19-Dashboard-Python-LookerStudio-Bi-ETL-&theme=dark)](https://github.com/anurahazra/github-readme-stats)
 
-### Linguagens utilizadas
+### 📫 Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius0py&çayout=compact)](https://github.com/anurahazra/github-readme-stats)
 
 
-### Contato
+### 💬 Contato
 [<img src='https://img.shields.io/badge/Linkedin-007785?style-for-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/vinicius-oliveira-p1/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**vinicius0py/vinicius0py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
