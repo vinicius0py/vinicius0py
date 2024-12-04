@@ -23,7 +23,7 @@ Sou Analista de Dados e graduando em Engenharia de Software, com um grande inter
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username-vinicius0py&repo=Analise-de-Dados-COVID-19-Dashboard-Python-LookerStudio-Bi-ETL-&theme=dark)](https://github.com/anurahazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinicius0py&repo=Analise-de-Dados-COVID-19-Dashboard-Python-LookerStudio-Bi-ETL-&theme=dark)](https://github.com/anurahazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
